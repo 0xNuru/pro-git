@@ -1,0 +1,9 @@
+# Python artifacts
+__pycache__
+/.venv
+/env
+/venv
+
+# Files containing local/sensitive configuration
+/.data
+/.env
